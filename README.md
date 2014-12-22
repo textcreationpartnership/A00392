@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon made: by the famous doctor Erasmus of RoterodameLiturgia Virginis Lauretanae. EnglishErasmu
+
 #####Body#####
-A sermon made: by the famous doctor Erasmus of RoterodameLiturgia Virginis Lauretanae. EnglishErasmu
+
+1. ¶In the seconde chapytre of the Gospell of saynt Iohan.
+
 #####Back#####
-A sermon made: by the famous doctor Erasmus of RoterodameLiturgia Virginis Lauretanae. EnglishErasmu
+¶Here endeth a sermon made: by the famous Doctor Erasmus of Roterodame.¶Imprynted by me Robert wyer ROBERT WYER.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
